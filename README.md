@@ -1,6 +1,6 @@
 👋 Hi, I’m @tall-ben </br>
 👀 I’m interested in all things technology </br>
-:school: I’m currently learning GitHub, GitLab, and Jira </br>
+:school: I’m currently learning Enterprise Storage, SASE, GitHub, Terraform, and how to survive </br>
 💞️ I’m looking to collaborate on learning </br>
 :bowtie: All the best! </br>
 
